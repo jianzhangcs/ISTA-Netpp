@@ -183,7 +183,7 @@ class BasicBlock(torch.nn.Module):
 
 
 
-# Define ISTA-Net-plus
+# Define ISTA-Net-pp
 class ISTA_Net_pp(torch.nn.Module):
     def __init__(self, LayerNo):
         super(ISTA_Net_pp, self).__init__()
